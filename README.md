@@ -1,2 +1,3 @@
 # sp1_gadto_docu
-Software project 1 documentation of an website named GadTo (An aggregated platform of e-commerce products comparison).
+A complete documentation of my software project-1.
+Here is the link of project repo: www.github.com/ayeshatamanna/this-GadTo
